@@ -73,6 +73,19 @@ input, select, textarea {
 	appearance: none;
 }
 
+.af {
+
+	display: block;
+	text-decoration: none;
+	color: #000;
+	font-size: 25px;
+	border: #ffffff solid 2px;
+	text-align: center;
+	background-color: #fff;
+	margin-bottom: 0.7em;
+
+
+}
 
 /* Basic */
 
@@ -307,16 +320,7 @@ input, select, textarea {
 		text-decoration: none;
 	}
 /* Form */
-    .field.half a{
-		display: block;
-		text-decoration: none;
-		color: #000;
-		font-size: 25px;
-		border: #ffffff solid 2px;
-		text-align: center;
-		background-color: #fff;
-		margin-bottom: 0.7em;
-	}
+
 	form {
 		margin: 0 0 2rem 0;
 	}
